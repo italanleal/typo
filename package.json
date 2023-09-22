@@ -1,10 +1,5 @@
 {
-  "name": "typo",
-  "version": "1.0.0",
   "main": "./src/main.ts",
-  "repository": "https://github.com/italanleal/typo.git",
-  "author": "italan <italanleal@gmail.com>",
-  "license": "MIT",
   "scripts": {
     "start": "tsx ./src/main.ts",
     "start:dev": "tsx watch ./src/main.ts",
